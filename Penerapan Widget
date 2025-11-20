@@ -1,0 +1,53 @@
+Nama : Bimas Najid Ilmansyah
+Nim : 231080200107
+Kelas : 5B1 Informatika
+
+4. Tulis widget yang digunakan dalam membangun project tersebut beserta fungsinya?
+
+Berikut Daftar Widget + Fungsinya
+
+Ini bisa kamu masukkan ke jawaban UTS.
+
+1. Scaffold
+
+Struktur dasar halaman: AppBar + body.
+
+2. AppBar
+
+Menampilkan judul halaman (MyShop Mini, Nama Kategori, Nama Produk).
+
+3. Column
+
+Menata widget secara vertikal (judul + konten).
+
+4. Row
+
+Menampilkan 3 kartu kategori secara horizontal.
+
+5. Card
+
+Menampilkan kategori / produk dalam bentuk kartu.
+
+6. Icon
+
+Untuk menampilkan ikon kategori dan produk.
+
+7. Text
+
+Menampilkan nama kategori, produk, dan harga.
+
+8. GestureDetector
+
+Untuk menangani klik/tap pada Card.
+
+9. Navigator.push()
+
+Untuk pindah ke halaman lain (kategori → produk → detail).
+
+10. GridView.count
+
+Menampilkan daftar produk dalam bentuk grid 2 kolom.
+
+11. Center
+
+Untuk memusatkan konten ProductDetailScreen.
